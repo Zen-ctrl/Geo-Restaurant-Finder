@@ -1,4 +1,4 @@
-# Documentation: Restaurant Finder 
+# Documentation: Geo Restaurant Grep
 
 This script uses the Google Maps Places API to find restaurants based on specific search keywords around given geographical coordinates. The results are then written to an Excel file, a CSV file, or displayed as a Pandas DataFrame, based on the user's choice.
 
